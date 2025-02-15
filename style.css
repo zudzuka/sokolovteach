@@ -297,7 +297,7 @@ p.price {
     font-weight: bold;
     margin-bottom: 15px;
     text-align: center;
-    background: rgba(200, 255, 200, 0.8); /* Легкий фон для выделения */
+    background: rgb(3, 3, 3); /* Легкий фон для выделения */
     padding: 10px;
     border-radius: 8px;
     display: block;
@@ -312,7 +312,7 @@ p.price {
 
 .new-price {
     font-size: 28px; /* Чуть больше, чтобы выделить */
-    color: #d32f2f; /* Ярко-красный цвет */
+    color: #e82d2d; /* Ярко-красный цвет */
     font-weight: bold;
 }
 
